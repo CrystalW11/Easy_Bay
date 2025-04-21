@@ -1,5 +1,5 @@
 # Easy_Bay
-Belt Exam for Web Fundamentals
+Web Design
 
 
 ![alt text](image.png)
