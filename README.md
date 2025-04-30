@@ -26,6 +26,8 @@ Experience the project live here:
 
 🔁 **Interactive UI** – Click actions, transitions, and feedback
 
+#
+
 🚀 **Getting Started**
 To run this project locally:
 
@@ -37,10 +39,13 @@ To run this project locally:
 
 Or simply drag the `index.html` file into your browser!
 
+#
+
 📂 **Project Structure**
 
  <img width="437" alt="image" src="https://github.com/user-attachments/assets/fe142a88-6790-4c5f-af21-0fb19a62f5e8" />
 
+#
 
 🤝 **Contributing**
 Got ideas or improvements?
@@ -55,11 +60,16 @@ Got ideas or improvements?
 
 📬 Create a Pull Request
 
+#
 
-![alt text](image.png)
+📄 **License**
 
-📄 License
 This project is open-source and available under the MIT License.
 
-🌐 Live Demo
+🌐 **Live Demo**
+
 💡 Consider deploying it via GitHub Pages or Netlify to share it easily!
+
+#
+
+![alt text](image.png)
