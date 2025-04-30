@@ -30,9 +30,9 @@ Experience the project live here:
 To run this project locally:
 
 
-`git clone https://github.com/CrystalW11/Easy_Bay.git`
-`cd Easy_Bay`
-`open index.html`  # or use `start/index.html` depending on your OS
+- `git clone https://github.com/CrystalW11/Easy_Bay.git`
+- `cd Easy_Bay`
+- `open index.html`  # or use `start/index.html` depending on your OS
 
 
 Or simply drag the `index.html` file into your browser!
