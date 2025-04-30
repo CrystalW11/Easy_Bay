@@ -1,5 +1,6 @@
-🌿 Easy_Bay
-Welcome to Easy_Bay – a beautifully crafted web project simulating a succulent plant e-commerce experience. This project showcases interactive front-end development using core web technologies.
+### 🌿 Easy_Bay
+
+A beautifully crafted web project simulating a succulent plant e-commerce experience. This project showcases interactive front-end development using core web technologies.
 
 #
 
