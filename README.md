@@ -39,7 +39,7 @@ Or simply drag the `index.html` file into your browser!
 
 📂 **Project Structure**
 
-- <img width="437" alt="image" src="https://github.com/user-attachments/assets/fe142a88-6790-4c5f-af21-0fb19a62f5e8" />
+ <img width="437" alt="image" src="https://github.com/user-attachments/assets/fe142a88-6790-4c5f-af21-0fb19a62f5e8" />
 
 
 🤝 **Contributing**
